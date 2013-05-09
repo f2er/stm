@@ -10,6 +10,10 @@
 <div class="mod_version">
     <h2>版本记录</h2>
     <div class="bd">
+		<dl class="m_vlist">
+            <dt>2013.04.27</dt>
+            <dd>通过个人已完成todo，生成页面周报发送至指定邮箱</dd>
+        </dl>
         <dl class="m_vlist">
             <dt>2013.04.23</dt>
             <dd>新增新建项目模块（通过颜色标识不同的项目）</dd>
