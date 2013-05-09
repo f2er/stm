@@ -1,0 +1,39 @@
+<?xml version="1.0" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd" >
+<svg xmlns="http://www.w3.org/2000/svg">
+<metadata>
+Created by FontForge 20110222 at Thu Apr 25 18:00:53 2013
+ By root
+Copyright (C) 2012 by original authors @ fontello.com
+</metadata>
+<defs>
+<font id="edit" horiz-adv-x="364" >
+  <font-face 
+    font-family="edit"
+    font-weight="500"
+    font-stretch="normal"
+    units-per-em="1000"
+    panose-1="2 0 6 3 0 0 0 0 0 0"
+    ascent="850"
+    descent="-150"
+    bbox="15 -80 1011 780.042"
+    underline-thickness="50"
+    underline-position="-100"
+    unicode-range="U+27A2-F33F"
+  />
+<missing-glyph 
+d="M33 0v666h265v-666h-265zM66 33h199v600h-199v-600z" />
+    <glyph glyph-name=".notdef" 
+d="M33 0v666h265v-666h-265zM66 33h199v600h-199v-600z" />
+    <glyph glyph-name=".null" horiz-adv-x="0" 
+ />
+    <glyph glyph-name="nonmarkingreturn" horiz-adv-x="333" 
+ />
+    <glyph glyph-name="uni27A2" unicode="&#x27a2;" horiz-adv-x="890" 
+d="M863 768q17 -17 9 -38q-7 -20 -29 -65t-24 -49q-71 -147 -304 -578l-66 -118l-54 380l-380 56q449 250 696 368q8 4 33 17.5t44.5 23t34.5 13.5q23 7 40 -10zM771 672l-304 -280l28 -234z" />
+    <glyph glyph-name="uniF33F" unicode="&#xf33f;" horiz-adv-x="1026" 
+d="M865 212q0 -103 -127 -197q-128 -95 -313 -95q-161 0 -285 78q-125 78 -125 196q0 129 146 280q91 92 186 129q88 35 130 1t14 -120q-5 -14 8 -14l16 2q72 34 134 34q61 0 84 -34.5t-2 -99.5q-6 -18 16 -24q118 -37 118 -136zM627 71q80 65 72 145q-11 80 -100 128
+q-90 48 -212 36t-202 -77q-81 -65 -70 -145q8 -80 98 -128t212 -36t202 77zM711 710q-16 0 -26 10t-10 26q0 34 36 34q123 0 212 -87q88 -87 88 -211v-2q0 -14 -11 -24t-25 -10t-24 10t-10 24q0 95 -68 163q-67 67 -162 67zM871 486q4 -15 -4.5 -27.5t-21.5 -14.5
+q-34 -4 -42 28q-8 38 -36.5 66t-65.5 36q-34 7 -26 40q7 36 42 28q57 -12 99.5 -55t54.5 -101zM343 276q48 10 88 -12.5t48 -61.5q10 -39 -19 -77q-28 -37 -79 -45q-35 -7 -67.5 3.5t-50 33t-20.5 52.5t22 61q28 35 78 46z" />
+  </font>
+</defs></svg>

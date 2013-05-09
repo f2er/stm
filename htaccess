@@ -1,0 +1,6 @@
+# custom error documents
+ErrorDocument 404 /404.html
+
+# disable directory browsing
+Options All -Indexes
+
