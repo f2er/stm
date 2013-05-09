@@ -50,5 +50,5 @@
         }
     }
 
-	$Q = new Q_DB('db_tm','root','***','localhost',"UTF8");
+	$Q = new Q_DB('db_tm','root','xxxx','localhost',"UTF8");
 ?>

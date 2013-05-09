@@ -27,7 +27,7 @@ function sendMail($uid,$week){
     $mail->Port       = 465;                   // set the SMTP port
     $mail->CharSet = 'UTF-8';
     $mail->Username   = "uezheng@gmail.com";  // GMAIL username
-    $mail->Password   = "03101120";            // GMAIL password
+    $mail->Password   = "xxx";            // GMAIL password
 
     $mail->From       = "uezheng@gmail.com";
     $mail->FromName   = "情封";
